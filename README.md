@@ -1,4 +1,4 @@
-# 🌱 Learning Git
+# Learning Git
 
 My personal journey into **version control with Git** — starting from the basics and building up to real-world workflows.
 
@@ -14,7 +14,7 @@ This is my **first GitHub repository**, created to learn the fundamentals of Git
 
 ---
 
-## 📌 Topics Covered
+## Topics Covered
 
 - [x] Initializing a repository (`git init`)
 - [x] Staging & committing changes (`git add`, `git commit`)
@@ -24,11 +24,10 @@ This is my **first GitHub repository**, created to learn the fundamentals of Git
 - [ ] Undoing changes (`git reset`, `git revert`)
 - [ ] Git workflows (feature branches, pull requests)
 
-> Check these off as you go — GitHub renders `[x]` as a checked box automatically.
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 learning-git-/
@@ -38,17 +37,16 @@ learning-git-/
 └── notes/            # personal notes & cheat sheets
 ```
 
-*(Update this to match your actual folders as the repo grows.)*
 
 ---
 
-## 🚀 Why I Started This
+## Why I Started This
 
 Git can feel intimidating at first — this repo is where I turn theory into muscle memory, one commit at a time.
 
 ---
 
-## 📎 Useful Resources
+## Useful Resources
 
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Skills](https://skills.github.com/)
@@ -56,7 +54,7 @@ Git can feel intimidating at first — this repo is where I turn theory into mus
 
 ---
 
-## ✨ What's Next
+##  What's Next
 
 More commits, more branches, fewer mistakes (hopefully) 😄
 
