@@ -2,13 +2,13 @@
 
 My personal journey into **version control with Git** — starting from the basics and building up to real-world workflows.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
-![First Repo](https://img.shields.io/badge/First%20Repo-🎉-blue?style=for-the-badge)
+![First Repo](https://img.shields.io/badge/First%20Repo-blue?style=for-the-badge)
 
 ---
 
-## 📖 About
+## About
 
 This is my **first GitHub repository**, created to learn the fundamentals of Git and version control. I'll be using this space to practice core commands, experiment with branching, and document what I learn along the way.
 
@@ -24,40 +24,8 @@ This is my **first GitHub repository**, created to learn the fundamentals of Git
 - [ ] Undoing changes (`git reset`, `git revert`)
 - [ ] Git workflows (feature branches, pull requests)
 
+> Check these off as you go — GitHub renders `[x]` as a checked box automatically.
 
 ---
 
 ## Repository Structure
-
-```
-learning-git-/
-├── README.md
-├── basics/          # git init, add, commit
-├── branching/        # branches, merging
-└── notes/            # personal notes & cheat sheets
-```
-
-
----
-
-## Why I Started This
-
-Git can feel intimidating at first — this repo is where I turn theory into muscle memory, one commit at a time.
-
----
-
-## Useful Resources
-
-- [Git Documentation](https://git-scm.com/doc)
-- [GitHub Skills](https://skills.github.com/)
-- [Learn Git Branching (interactive)](https://learngitbranching.js.org/)
-
----
-
-##  What's Next
-
-More commits, more branches, fewer mistakes (hopefully) 😄
-
----
-
-<p align="center"><i>Made with 💻 and a lot of `git status`</i></p>
