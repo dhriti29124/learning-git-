@@ -2,7 +2,7 @@
 
 My personal journey into **version control with Git** — starting from the basics and building up to real-world workflows.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
 ![First Repo](https://img.shields.io/badge/First%20Repo-🎉-blue?style=for-the-badge)
 
