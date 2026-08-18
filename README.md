@@ -42,7 +42,7 @@ learning-git-/
 
 ---
 
-## Why I Started This?
+### Why I Started This?
 
 Git can feel intimidating at first — this repo is where I turn theory into muscle memory, one commit at a time.
 
@@ -56,7 +56,7 @@ Git can feel intimidating at first — this repo is where I turn theory into mus
 
 ---
 
-## What's Next
+### What's Next
 
 More commits, more branches, fewer mistakes (hopefully)
 
