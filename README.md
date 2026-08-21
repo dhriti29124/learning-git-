@@ -10,7 +10,7 @@ My personal journey into **version control with Git** — starting from the basi
 
 ## About
 
-This is my **first GitHub repository**, created to learn the fundamentals of Git and version control. I'll be using this space to practice core commands, experiment with branching, and document what I learn along the way.
+This is my first GitHub repository, created to learn the fundamentals of Git and version control. I'll be using this space to practice core commands, experiment with branching, and document what I learn along the way.
 
 ---
 
@@ -38,11 +38,10 @@ learning-git-/
 └── notes/            # personal notes & cheat sheets
 ```
 
-*(Update this to match your actual folders as the repo grows.)*
 
 ---
 
-### Why I Started This??
+### Why I Started This???
 
 Git can feel intimidating at first — this repo is where I turn theory into muscle memory, one commit at a time.
 
